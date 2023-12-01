@@ -1,7 +1,7 @@
-+++
-title = '2023 12 01 Introduction'
-layout = 'post'
-+++
+---
+title : 2023-12-01-Introduction
+date : 2023-12-01T22:00:00+09:00
+---
 
 この記事は[『スクールガールストライカーズ2 Advent Calendar 2023』](https://adventar.org/calendars/8657) の12/1分の記事です。
 
