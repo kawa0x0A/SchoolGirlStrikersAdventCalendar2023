@@ -1,6 +1,6 @@
 +++
 title = '2023 12 01 Introduction'
-draft = false
+layout = 'post'
 +++
 
 この記事は[『スクールガールストライカーズ2 Advent Calendar 2023』](https://adventar.org/calendars/8657) の12/1分の記事です。
