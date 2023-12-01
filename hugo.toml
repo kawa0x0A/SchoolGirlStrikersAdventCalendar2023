@@ -1,0 +1,4 @@
+baseURL = 'https://kawa0x0a.github.io/SchoolGirlStrikersAdventCalendar2023/'
+languageCode = 'ja-jp'
+title = 'スクールガールストライカーズ2 アドベントカレンダー 2023'
+theme = 'stack'
